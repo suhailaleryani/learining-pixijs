@@ -1,5 +1,5 @@
 import { TilingSprite, Texture } from "pixi.js";
-import backMid from '../assets/images/game/bg-mid.png';
+import backMid from '../assets/images/bg-mid.png';
 
 class Mid extends TilingSprite {
 

@@ -1,5 +1,5 @@
 import { TilingSprite, Texture } from "pixi.js";
-import backFar from '../assets/images/game/bg-far.png';
+import backFar from '../assets/images/bg-far.png';
 
 class Far extends TilingSprite {
 

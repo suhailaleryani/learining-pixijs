@@ -2,8 +2,6 @@ import { Far } from "./Far"
 import { Mid } from "./Mid";
 
 
-
-
 class Scroller {
 
   constructor(stage) {
