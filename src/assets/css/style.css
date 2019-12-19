@@ -1,0 +1,15 @@
+body {
+    /* background-color: red; */
+    margin: 0;
+}
+
+img {
+    height: 100px;
+    width: 100%;
+}
+
+div#pixiSelector {
+    /* width: 100%;
+height: calc(100vh - 110px); */
+    /* background-color: blue; */
+}
